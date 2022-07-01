@@ -1,0 +1,499 @@
+.footer2 > * {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+     padding-right:0px;
+     padding-left:0px;
+    margin-top: var(--bs-gutter-y);
+}
+
+
+ .img1{ 
+    position: relative;   
+  
+    
+}
+.img2{
+    position: relative;   
+  
+
+    } 
+
+.img3{
+    position: relative;   
+  
+    
+}
+
+.img4{
+   position: relative;
+    
+}
+.img5{
+    position: relative;    
+}
+.img6{
+   position: relative;
+   
+}
+.img7{
+   position: relative;
+    
+}
+
+
+.img8{position: relative;
+    
+}
+.img9{position: relative;
+
+}
+.img10{position: relative;
+   
+}
+
+    
+
+/* .img2{
+   
+   
+     height: 400px;
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    width: 100%;  
+}
+.img1{
+
+    height: 400px;
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    width: 100%; */
+
+     /* background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%; 
+    
+}
+.parentbox .row{
+    column-gap: 15px;
+
+}
+.box1 .row{
+    display: grid;
+     grid-template-columns: auto auto;
+
+    flex-direction: row;
+    width: auto;
+    
+}
+.box2 .row{
+     display: grid;
+      grid-template-columns: auto auto auto auto; 
+   
+     flex-direction: row;
+    width: auto;  */
+
+/* }
+.imgc{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cmnt{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+.imgc{
+    width:100px;
+    height: 200px;
+} */
+
+
+/* aravind  */
+/* .parentbox{
+    display: grid;
+grid-template-columns: auto;
+width:90%;
+height: 750px;
+grid-gap: 15px;
+}
+.row1{
+    display: grid;
+    grid-template-columns: auto auto;
+    flex-direction: row;
+    width: auto;
+    grid-gap: 15px;
+}
+.row2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    flex-direction: row;
+    width: auto;
+    grid-gap: 15px;
+}
+
+
+.imgc{
+    background-size: cover;
+            object-fit: center;
+            width: auto;
+} */
+
+
+
+
+
+.parentbox{
+   
+    background-color: WHITE;
+    color:black;
+
+}
+   
+
+   
+
+.imgc1 h5{
+    position: absolute;
+    top: 46%;
+    font-weight: bolder;
+    color: white;
+}
+.img1 h5{
+    position: absolute;
+    left: 36%;
+}
+.img2 h5{
+    position: absolute;
+    left: 46%;
+}
+
+
+
+.imgc{
+   
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+.imgc img{
+    width: 100%;
+    height: fit-content;
+    font-weight: bolder;
+}
+.imgc2{
+   
+    
+}
+
+.imgc h5{
+    position: absolute;
+    top: 46%;
+}
+.img3 h5{
+    position: absolute;
+    left: 32%;
+}
+.img4 h5{
+    position: absolute;
+    left: 18%;
+}
+.img5 h5{
+    position: absolute;
+    left: 39%;
+}
+.img6 h5{
+    position: absolute;
+    left: 39%;
+}
+.img7 h5{
+    position: absolute;
+    left: 36%;
+}
+.img8 h5{
+    position: absolute;
+    left: 32%;
+}
+.img9 h5{
+    position: absolute;
+    left: 38%;
+}
+.img10 h5{
+    position: absolute;
+    left: 30%;
+}
+
+  
+    
+
+
+.footer1{
+    margin-top: 2%;
+    background-color: #fcb026;
+    /* height: 100px; */
+}
+.cont{flex: 1;
+    width: 300px;
+    height: 100px;
+    background-color: #fcb026;
+   
+    align-items: center;
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.rowcont{ display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i{
+    font-size: large;
+}
+   .cont i{
+    color: white;
+    font-size: 1.5vw
+   }
+   .cont h5{
+       color: black;
+       font-weight: bold;
+       font-size: 1.5vw
+   }
+ 
+   .footer4 button{
+       
+
+    font-size: 1vw;
+    background-color: transparent;
+    color: white;
+    border-style: none;
+    display: flex;
+    justify-content: center;
+ align-items: center;
+
+     
+    
+   
+   }
+   .footer3{
+       background-color: #fcb026;
+       height: 70px;
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+   }
+   
+       
+   
+   .footer4{
+       background-color: black;
+       display: flex;
+       justify-content: center;
+    align-items: center;
+    height:80px;
+   }
+   .footer2{
+       display: flex;
+       position: relative;
+       background-color: white;
+   }
+   .footer2 h6{
+    position: absolute;
+    top: 44%;
+    left: 20%;
+    color: beige;
+    font-size: .8vw;
+   }
+   .footer2 img{
+    margin:0!important;
+    padding:0!important;
+    border:0!important;
+   }
+.footer3 i{
+    color: white;
+    font: size 1.5vw;;
+}
+ .footer{
+     width: auto;
+ }
+  
+  
+
+   .row{
+    padding: 0;
+   
+   }
+   @media(max-width:1200px)
+   {
+.footer1{
+    
+}
+.cont{
+    height: 80px;
+}
+.footer4{
+    height: 70px;
+}
+.footer3{
+    height: 60px;
+}
+
+
+
+ 
+}  
+
+
+@media(max-width:1400px){
+    .cont{
+        height: 75px;
+}
+.footer3{
+    height: 55px;
+}.footer4{
+    height: 55px;
+}}
+
+
+@media(max-width:1200px){
+    .cont{
+        height: 60px;
+
+}
+.footer3{
+    height: 45px;
+}.footer4{
+    height: 45px;
+}
+}
+
+@media(max-width:992px){
+
+    .cont{
+        height: 38px;
+}
+.footer3{
+    height: 40px;
+}
+.footer4{
+    height: 40px;
+}
+}
+
+
+@media(max-width:768px){
+
+    .cont{
+        height: 40px;
+}
+.footer3{
+    height: 32px;
+}.footer4{
+    height: 32px;
+}
+
+.imagetext1{
+    width:60%;
+    color: white;
+    z-index: 999;
+    top: 30%;
+   left: 20%;
+   }
+.imagetext1 h3 {
+    font-size: 10px
+}
+.imagetext1 button{
+width: -1%;
+    background-color: transparent;
+    font-size: 20px;
+    color: white;
+    border-style: none;
+
+}
+.imagetext1 button span{
+    color: yellow;
+    font-size: 23px;
+}
+}
+
+
+
+
+
+@media(max-width:576px){
+    .cont{
+        height: 30px;
+    
+}
+.footer3{
+    height: 25px;
+}
+.footer4{
+    height: 25px;
+}
+.fa-brands{
+    position: absolute;
+    top: 5px;
+}
+@media(max-width:400px){
+
+    .cont{
+        height: 20px;
+}
+.footer3{
+    height: 15px;
+}
+.fa-brands{
+    position: absolute;
+    top: 3px;
+}
+.footer4{
+    height: 15px;
+}
+}
+.img3 img{
+    color: black;
+
+} 
+ }
+st{
+    position: relative;
+}
+.imagetext1{
+    width:60%;
+    color: white;
+    height: auto;
+   
+    z-index: 999;
+    top: 25%;
+   left: -5%;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.imagetext1 h3 {
+    font-size: 3vw;
+    font-weight: bolder;
+
+}
+.imagetext1 button{
+width: -1%;
+    background-color: transparent;
+    font-size: 2vw;
+    color: white;
+    border-style: none;
+
+}
+.imagetext1 button span{
+    color: yellow;
+    font-size: 2.5vw;
+
+}
